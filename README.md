@@ -10,9 +10,6 @@
 
 &emsp;微信搜索公众号“龙跃十二”，或者扫码关注，只有你想不到的，没有我们做不到的。
 
-<p align="center"><image src="https://tva1.sinaimg.cn/large/006tNbRwly1galsp9a07kj30p00dwae3.jpg" ></image></p>
-
-
 
 
 
