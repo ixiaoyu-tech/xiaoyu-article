@@ -14,6 +14,6 @@
 
 我把自己的写作框架分享给大家，至于每一部分的细节内容，我会在公众号一一更新，还有我的自学方法汇总，希望对你有帮助。
 
-![](/Users/fq/Documents/学习文件/html+css/web前端学习框架.png)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gd7l5e2uzfj30of1ml458.jpg)
 
 都看到这里了，别忘记去公众号关注我哦！
