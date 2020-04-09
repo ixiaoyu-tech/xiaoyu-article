@@ -8,8 +8,6 @@
   <a href="https://segmentfault.com/u/xiaoyuqianduan/articles"><img src="https://img.shields.io/badge/cnblogs-思否-important.svg" alt="投稿"></a>
   <a href="https://www.jianshu.com/u/5e84fbbef7c5"><img src="https://img.shields.io/badge/oschina-简书-green" alt="投稿"></a>
    <a href="https://my.oschina.net/u/4503000?tab=newest&catalogId=0"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
-  <a href="https://mp.toutiao.com/profile_v3/index"><img src="https://img.shields.io/badge/toutiao-头条号-9cf" alt="投稿"></a>
-  <a href="https://baijiahao.baidu.com/builder/rc/home"><img src="https://img.shields.io/badge/toutiao-百家号-9cf" alt="投稿"></a>
 </p>
 谢谢你愿意来我的GitHub上看看，如果有你喜欢的内容，可以尽情star🌟，不用客气。
 
