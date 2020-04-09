@@ -3,14 +3,16 @@
 <p align="center">
   
   <a href="https://blog.csdn.net/qq_33828738"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://www.zhihu.com/people/feng-qing-92-30"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://juejin.im/user/5e1b2199f265da3e097e8e60"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://segmentfault.com/u/xiaoyuqianduan"><img src="https://img.shields.io/badge/cnblogs-思否-important.svg" alt="投稿"></a>
+  <a href="https://www.zhihu.com/people/feng-qing-92-30/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://juejin.im/user/5e1b2199f265da3e097e8e60/posts0"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://segmentfault.com/u/xiaoyuqianduan/articles"><img src="https://img.shields.io/badge/cnblogs-思否-important.svg" alt="投稿"></a>
   <a href="https://www.jianshu.com/u/5e84fbbef7c5"><img src="https://img.shields.io/badge/oschina-简书-green" alt="投稿"></a>
+   <a href="https://my.oschina.net/u/4503000?tab=newest&catalogId=0"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
   <a href="https://mp.toutiao.com/profile_v3/index"><img src="https://img.shields.io/badge/toutiao-头条号-9cf" alt="投稿"></a>
   <a href="https://baijiahao.baidu.com/builder/rc/home"><img src="https://img.shields.io/badge/toutiao-百家号-9cf" alt="投稿"></a>
 </p>
 谢谢你愿意来我的GitHub上看看，如果有你喜欢的内容，可以尽情star🌟，不用客气。
+
 笛福说：“害怕危险本身就比危险还要可怕一万倍。”这一生本就是充满困难和坎坷，所以很多事情需要我们保持勇气，不断前行。就像小玉一样，她对世界上发生的一切事情都有浓厚的兴趣，敏捷机智，坚强勇敢，这是我想象中20岁该有的样子。
 
 是的我才刚过20岁，而我在迷茫与不迷茫中夹缝生存了20年，最近恍惚明白，我在最美好的20岁没能给自己留下记忆深刻的东西，我深深思考了许久，所以我喜欢上用文字来记录生活和学习，它集及了我对整个20多岁的认知。
