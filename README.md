@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <a href="https://mp.csdn.net/console/article"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://blog.csdn.net/qq_33828738"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
   <a href="https://www.zhihu.com/people/feng-qing-92-30"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://juejin.im/user/5e1b2199f265da3e097e8e60"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://segmentfault.com/u/xiaoyuqianduan"><img src="https://img.shields.io/badge/cnblogs-思否-important.svg" alt="投稿"></a>
